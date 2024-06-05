@@ -2,7 +2,7 @@
 node_modules
 input/*
 !input/.gitkeep
-output/*
-!output/.gitkeep
+output_png/*
+!output_png/.gitkeep
 output_svg/*
 !output_svg/.gitkeep

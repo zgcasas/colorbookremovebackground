@@ -4,7 +4,7 @@ const sharp = require('sharp');
 
 // Ensure input and output directories exist
 const inputDir = 'input';
-const outputDir = 'output';
+const outputDir = 'output_png';
 
 if (!fs.existsSync(inputDir)) {
     fs.mkdirSync(inputDir);

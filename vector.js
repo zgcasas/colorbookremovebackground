@@ -3,7 +3,7 @@ const path = require('path');
 const potrace = require('potrace');
 const { promisify } = require('util');
 
-const inputDir = 'output';
+const inputDir = 'output_png';
 const outputDir = 'output_svg';
 
 // Promisify the potrace functions

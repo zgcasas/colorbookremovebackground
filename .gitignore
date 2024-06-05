@@ -4,3 +4,5 @@ input/*
 !input/.gitkeep
 output/*
 !output/.gitkeep
+output_svg/*
+!output_svg/.gitkeep
